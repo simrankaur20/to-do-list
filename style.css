@@ -1,0 +1,21 @@
+li .done span {
+  text-decoration: line-through;
+}
+body,html{
+  height: 100%; 
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 53%, rgba(9,9,121,1) 97%);
+}
+#myVideo{
+  position: relative;
+  width: 100%;
+  /* z-index: -1; */
+}
+h1{
+  color: white;
+  height: 10%;
+  background-color: darkblue;
+  text-align: center;
+  padding:.25%;
+  font-family: 'Pacifico', cursive;
+}
